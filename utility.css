@@ -1,0 +1,12 @@
+:root{
+/* Primary colors */
+--primary-gradient: linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%)); /* Gradient for primary elements */
+--primary-light: hsl(6, 100%, 80%); /* Lighter shade of primary for accents */
+--primary-dark: hsl(335, 100%, 65%); /* Darker shade of primary for contrast */
+
+/* Neutral colors */
+--neutral-pale-blue: hsl(243, 100%, 93%); /* Pale blue for backgrounds and borders */
+--neutral-grayish-blue: hsl(229, 7%, 55%); /* Grayish blue for text and subtle elements */
+--neutral-dark-blue: hsl(228, 56%, 26%); /* Dark blue for buttons and highlights */
+--neutral-very-dark-blue: hsl(229, 57%, 11%); /* Very dark blue for shadows and borders */
+}
