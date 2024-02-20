@@ -1,5 +1,4 @@
 *,*::before,*::after{
-   
     box-sizing: border-box;
 }
 
@@ -12,4 +11,11 @@ body{
    background-image: url('bg-mobile.png');
    background-size: 120%;
    background-repeat: no-repeat;
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+   margin:6rem 2rem ;
+   gap:1rem;
+   border:1px solid red;
+   /* height:100vh; */
 }
