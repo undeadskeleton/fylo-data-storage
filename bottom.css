@@ -44,10 +44,13 @@
       border-radius:0;
       border-right:20px solid var(--neutral-pale-blue);
       border-bottom:20px solid var(--neutral-dark-blue);
+      content:"";
       top:-30%;
       right:0;
       bottom:auto;
    }
+   
+  
 }
 .outside span{
    font-size:3rem;
