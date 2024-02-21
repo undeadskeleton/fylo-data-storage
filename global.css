@@ -16,6 +16,8 @@ body{
    justify-content: center;
    margin:6rem 2rem ;
    gap:1rem;
-   border:1px solid red;
+   height:80vh;
+   
+   /* border:1px solid red; */
    /* height:100vh; */
 }
