@@ -1,0 +1,5 @@
+ @media (min-width:900px){
+    .desktop{
+       display:flex;
+    }
+ }

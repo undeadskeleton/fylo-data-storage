@@ -8,6 +8,13 @@
    flex-direction: column;
    padding:3rem;
 }
+
+@media (min-width:900px){
+   .top{
+      width:30%;
+   }
+}
+
 .top> :first-child{
    margin:1rem;
    margin-left:0;

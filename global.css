@@ -21,3 +21,13 @@ body{
    /* border:1px solid red; */
    /* height:100vh; */
 }
+
+@media (min-width:900px){
+   body{
+   background-image: url('bg-desktop.png');
+   background-size: contain;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-color: var(--neutral-very-dark-blue);
+   }
+}
