@@ -9,6 +9,7 @@
 --neutral-grayish-blue: hsl(229, 7%, 55%); /* Grayish blue for text and subtle elements */
 --neutral-dark-blue: hsl(228, 56%, 26%); /* Dark blue for buttons and highlights */
 --neutral-very-dark-blue: hsl(229, 57%, 11%); /* Very dark blue for shadows and borders */
+font-family: "Raleway", sans-serif;
 }
 
 .top{
